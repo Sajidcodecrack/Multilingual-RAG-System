@@ -265,7 +265,7 @@ To ensure meaningful comparison:
 >  Potential Improvements:
 >
 > * **Tune Chunking:** Try different chunk sizes (e.g., 512, 1024) and overlap values
-> * **Enhance OCR Cleaning:** Post-process common Bengali OCR misreads (e.g., confusing characters)
+> * **Enhance OCR Cleaning:** Post-process common Bengali OCR misreads
 > * **Add Re-Ranking:** Use a secondary relevance model to re-rank top-k retrieved chunks before passing to LLM
 
 </details>
